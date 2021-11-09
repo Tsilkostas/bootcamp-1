@@ -1,9 +1,9 @@
-function calculator(a,b,sym)
+function calculator(a,b,sym)//this is the calculator function
 {
 switch (sym)
 {
 case "+":
-return a+b;
+return a+b;//this is a comment
 break;
 case "-":
 return a-b;
