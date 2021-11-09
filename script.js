@@ -34,6 +34,6 @@ while(parseInt(num1)!=num1)//validation for integer
   }
 var symbol=prompt ("Give me the operation");
 var num2=+prompt("Give me number 2");
-result= calculator(num1,num2,symbol);
-console.log(result);
+res= calculator(num1,num2,symbol);
+console.log(res);
 
